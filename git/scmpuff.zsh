@@ -1,0 +1,2 @@
+eval "$(scmpuff init -s)"
+
