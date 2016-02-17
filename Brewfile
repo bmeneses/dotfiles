@@ -14,8 +14,12 @@ brew 'spaceman-diff'
 brew 'spark'
 brew 'unrar'
 brew 'wget'
+brew 'scmpuff'
+
 
 cask 'atom'
 cask 'google-chrome'
 cask 'slack'
 cask 'vlc'
+cask 'vagrant'
+cask 'eclipse'
