@@ -15,6 +15,7 @@ brew 'spark'
 brew 'unrar'
 brew 'wget'
 brew 'scmpuff'
+brew 'mongodb'
 
 
 cask 'atom'
@@ -23,3 +24,4 @@ cask 'slack'
 cask 'vlc'
 cask 'vagrant'
 cask 'eclipse'
+cask 'bitbar'
